@@ -2,14 +2,12 @@
 ## About me:
 - 🔭 I’m currently working as Service Quality Asurance Engineer Intern 
 - 🌱 I’m currently learning at Coding Camp Powered by DBS Foundation
-<!-- - 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas -->
 - 💬 Ask me about anything
 - 📫 How to reach me: umarkuliahan@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://tekkom.upi.edu/) | Bachelor of Computer Engineering | `2022-Present`
+#### 1. [Universitas Pendidikan Indonesia](https://tekkom.upi.edu/) | Bachelor of Computer Engineering | `2022-Present`
 #### 2. [Coding Camp Powered by DBS Foundation](https://codingcamp.dicoding.com/) | Machine Learning Engineer |  `Feb'2025-Jul'2025`
 
 ## Work Experience:
